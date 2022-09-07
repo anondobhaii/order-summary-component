@@ -43,9 +43,6 @@ main .card {
   border-radius: 20px;
   overflow: hidden;
 }
-main .card .card__image {
-  margin-bottom: 1em;
-}
 main .card .card__image > img {
   width: 100%;
 }
@@ -63,7 +60,7 @@ main .card .card__details h1 {
   font-weight: 900;
   color: var(--neu-db2);
   margin-bottom: 20px;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 main .card .card__details > p {
   color: hsl(224deg, 23%, 55%);
@@ -120,7 +117,7 @@ main .card .card__details .buttons #cancel {
   font-weight: 700;
   color: hsl(224deg, 23%, 55%);
   text-decoration: none;
-  margin: 2em 1em 1em;
+  margin: 2em 1em 0em;
 }
 
 footer {
